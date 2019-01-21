@@ -1,5 +1,6 @@
 %% simple model contrasting mental rotation vs. response substitution in M1
 %% see McDougle & Taylor, Nat. Comm. (2019), Figure S6 for details
+%% inspired by Georgopoulos et al. (1989) and Cisek & Scott (1999)
 %% 9/13/17; NYC
 clear;clc;close all;
 
